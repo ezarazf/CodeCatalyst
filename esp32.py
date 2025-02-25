@@ -133,4 +133,5 @@ while True:
     except Exception as e:
         print(f"General Error: {e}")
 
-    time.sleep(0.01)  # Ultra-fast detection (100ms loop)
+    time.sleep(0.01)  # Ultra-fast detection (100ms loop)
+ 
